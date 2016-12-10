@@ -6,6 +6,7 @@ Links
 
 - [Material](http://bit.ly/xamarinddcelaya)
 - [macClound](http://www.macincloud.com/)
+- [Code](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab)
 
 Conceptos Generales
 --------------------
@@ -40,3 +41,8 @@ Xamarin Forms
   - Xamarin (Tradicional)
   - Xamarin Forms
 - El despliegue es sobre un ContenPage y dentro de este se generan los contentView
+
+Hands On Lab
+-------------
+
+- Coding...
