@@ -4,7 +4,8 @@ Teoría
 Links
 -----
 
-- [Material](http://bit.ly/xamarinddcelaya);
+- [Material](http://bit.ly/xamarinddcelaya)
+- [macClound](http://www.macincloud.com/)
 
 Conceptos Generales
 --------------------
@@ -30,3 +31,12 @@ Apps Conectadas y desconectadas con Azure Mobile Apps
 - Habilitacion de servicios:
   - iOS: Certificados, Certificados, certificados, certificado, certificad, certifica, certific...
   - Andorid: Generación de ApiKeys
+
+
+Xamarin Forms
+-------------
+
+- Al desarrollo es posible a dos Enfoques
+  - Xamarin (Tradicional)
+  - Xamarin Forms
+- El despliegue es sobre un ContenPage y dentro de este se generan los contentView
