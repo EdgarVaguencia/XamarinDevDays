@@ -1,5 +1,5 @@
-Intoducción
-===========
+Teoría
+======
 
 Conceptos Generales
 --------------------
@@ -15,4 +15,13 @@ Conceptos Generales
   - Andorid: Compilación Just In Time (JIT)
 - Soport completo en version de iOS y Android
 - Compartir código mediante PCL a las distintas plataformas dentro del repositorio NuGET (Microsft)
-- Plugins: Xamarin Plugings [Xamarin Plugins]("https://github.com/Xamarin");
+- Plugins: Xamarin Plugings [Xamarin Plugins](https://github.com/Xamarin/)
+
+
+Apps Conectadas y desconectadas con Azure Mobile Apps
+-----------------------------------------------------
+
+- Mediante etiquetado dentro de la nube es possible expadir notificaciones con hookNotifications
+- Habilitacion de servicios:
+  - iOS: Certificados, Certificados, certificados, certificado, certificad, certifica, certific...
+  - Andorid: Generación de ApiKeys
